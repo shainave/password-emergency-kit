@@ -1,9 +1,6 @@
 # password-emergency-kit
 A collection of Password Manager Emergency Kits in PDF formant.
 
-July 2024
-v1 Bitwadren Emergency Kit
-
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
 This work is licensed under a
